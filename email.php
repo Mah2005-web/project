@@ -1,11 +1,11 @@
 <?php
-$to = "saroj900008@gmail.com"; // Replace with recipient's email
+$to = " "; // Replace with recipient's email
 $subject = "Test Email from PHP";
 $message = "This is a test email sent from a PHP script.";
 
 // Sender info
 $senderName = "John Doe";
-$senderEmail = "admin@aitpune.com";
+$senderEmail = " ";
 
 // Set content-type header for UTF-8 and HTML email if needed
 $headers  = "MIME-Version: 1.0" . "\r\n";
